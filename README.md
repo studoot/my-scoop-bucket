@@ -1,4 +1,4 @@
-# my-scoop-bukcets
+# my-scoop-buckets
 Personal buckets for Scoop, as per [here](https://github.com/lukesampson/scoop/wiki/Buckets)
 
 Added apps:

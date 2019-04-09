@@ -6,3 +6,5 @@ Added apps:
 * [Git credential manager for Windows](https://github.com/Microsoft/Git-Credential-Manager-for-Windows)
 
 * [TortoiseHg](https://tortoisehg.bitbucket.io/)
+
+* [xsltproc](http://xmlsoft.org/XSLT/xsltproc.html)

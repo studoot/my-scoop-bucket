@@ -4,3 +4,5 @@ Personal buckets for Scoop, as per [here](https://github.com/lukesampson/scoop/w
 Added apps:
 
 * [Git credential manager for Windows](https://github.com/Microsoft/Git-Credential-Manager-for-Windows)
+
+* [TortoiseHg](https://tortoisehg.bitbucket.io/)

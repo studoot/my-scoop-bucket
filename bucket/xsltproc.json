@@ -1,6 +1,6 @@
 {
   "homepage": "http://xmlsoft.org/",
-  "version": "2.9.3",
+  "version": "1.1.28",
   "license": "MIT",
   "architecture": {
     "64bit": {
@@ -35,6 +35,10 @@
         "e50f54d82bbb8c413e3337bdccf8d795f69affd17a813a0b44cedd899af8fc62"
       ]
     }
+  },
+  "checkver": {
+    "url": "http://xmlsoft.org/sources/win32/64bit/",
+    "re": "libxslt-([\\d.]+)-win32-x86.7z"
   },
   "bin": ["bin\\xmllint.exe", "bin\\xsltproc.exe"]
 }

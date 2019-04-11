@@ -1,24 +1,24 @@
 {
-	"version": "4.9.0",
-	"architecture": {
-		"64bit": {
-			"url": "https://bitbucket.org/tortoisehg/files/downloads/tortoisehg-4.9.0-x64.msi",
-			"hash": "426c4cfffeb933b10c7f3e2c2b13e9d843b0a513ad1762ff17dda0b57492ec08"
-		},
-		"32bit": {
-			"url": "https://bitbucket.org/tortoisehg/files/downloads/tortoisehg-4.9.0-x86.msi",
-			"hash": "b49d55a52bc0eab14947c8982c413d9be141c337da1368a24aa0484cbb5e89cd"
-		}
-	},
-	"bin": "PFiles/TortoiseHg/thgw.exe",
-	"checkver": {
-		"url": "https://tortoisehg.bitbucket.io/download/index.html",
-		"re": "tortoisehg-([\\d.]+)-x86.msi"
-	},
-	"shortcuts": [
-		[
-			"PFiles/TortoiseHg/thgw.exe",
-			"TortoiseHg Workbench"
-		]
-	]
+    "version": "4.9.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://bitbucket.org/tortoisehg/files/downloads/tortoisehg-4.9.0-x64.msi",
+            "hash": "426c4cfffeb933b10c7f3e2c2b13e9d843b0a513ad1762ff17dda0b57492ec08"
+        },
+        "32bit": {
+            "url": "https://bitbucket.org/tortoisehg/files/downloads/tortoisehg-4.9.0-x86.msi",
+            "hash": "b49d55a52bc0eab14947c8982c413d9be141c337da1368a24aa0484cbb5e89cd"
+        }
+    },
+    "bin": "PFiles/TortoiseHg/thgw.exe",
+    "checkver": {
+        "url": "https://tortoisehg.bitbucket.io/download/index.html",
+        "re": "tortoisehg-([\\d.]+)-x86.msi"
+    },
+    "shortcuts": [
+        [
+            "PFiles/TortoiseHg/thgw.exe",
+            "TortoiseHg Workbench"
+        ]
+    ]
 }

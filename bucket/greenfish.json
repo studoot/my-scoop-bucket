@@ -1,0 +1,33 @@
+{
+	"homepage": "http://greenfishsoftware.org/gfie.php",
+	"version": "3.6",
+	"license": "GPL v3",
+	"architecture": {
+		"64bit": {
+			"bin": "gfie64.exe",
+			"shortcuts": [
+				[
+					"gfie64.exe",
+					"Greenfish Icon Editor"
+				]
+			]
+		},
+		"32bit": {
+			"bin": "gfie32.exe",
+			"shortcuts": [
+				[
+					"gfie32.exe",
+					"Greenfish Icon Editor"
+				]
+			]
+		}
+	},
+	"url": "http://greenfishsoftware.org/dl.php?filename=gfie3.6.zip#/gfie3.6.zip",
+	"extract_dir": "Greenfish Icon Editor Pro 3.6",
+	"hash": "ad9374f958b394c65ede2c0da8051803adf75ee54312aa58faddc7a3211d1fe3",
+	"checkver": {
+		"url": "http://greenfishsoftware.org/gfie.php",
+		"re": "Current version \\(([\\d.]+)\\):"
+	}
+
+}

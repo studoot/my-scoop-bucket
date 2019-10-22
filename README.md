@@ -8,3 +8,7 @@ Added apps:
 * [TortoiseHg](https://tortoisehg.bitbucket.io/)
 
 * [xsltproc](http://xmlsoft.org/XSLT/xsltproc.html)
+
+* [OpenCppCoverage](https://github.com/OpenCppCoverage/OpenCppCoverage)
+
+* [Greenfish Icon Editor](http://greenfishsoftware.org/gfie.php)

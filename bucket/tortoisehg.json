@@ -13,7 +13,7 @@
     "bin": "PFiles/TortoiseHg/thgw.exe",
     "checkver": {
         "url": "https://tortoisehg.bitbucket.io/download/index.html",
-        "re": "tortoisehg-([\\d.]+)-x86.msi"
+        "re": "tortoisehg-([\\d.]+)-(x64|x86).msi"
     },
     "shortcuts": [
         [
